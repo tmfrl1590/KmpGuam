@@ -33,3 +33,10 @@ plugins {
 }
 
 include(":composeApp")
+include(":domain")
+include(":data")
+include(":design")
+include(":remote")
+include(":local")
+include(":core")
+include(":presentation")
